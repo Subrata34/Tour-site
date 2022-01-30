@@ -6,3 +6,5 @@ const firebaseConfig = {
   messagingSenderId: "837383393189",
   appId: "1:837383393189:web:49a778d476a8987683224c"
 };
+
+  export default firebaseConfig ;
